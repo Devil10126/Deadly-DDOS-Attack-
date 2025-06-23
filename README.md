@@ -3,4 +3,5 @@ It can crash any given server
 
 Remember it can be very dangerous, its much powerful 
 
-for windows, Use DDoS.py
+for windows, Use DDoS.py and download all dependencies 
+
